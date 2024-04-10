@@ -1,5 +1,7 @@
 # Deep Reinforcement Learning framework for fault detection in continuous chemical processes
 
+More info on my portfolio: https://sites.google.com/view/rodrigomantovani/my-work/drl-based-fault-detection/
+
 ## Master thesis
 ### Abstract:
 
